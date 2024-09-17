@@ -1,0 +1,8 @@
+# New Tileset
+
+  - Have to add a type input in the window, under "Tileset"
+
+
+The selected tileset is not updated in the layer manager when a button (layer) is deleted
+
+update image handeling in the add_tile method in tileset

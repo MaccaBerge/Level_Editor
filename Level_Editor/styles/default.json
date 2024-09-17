@@ -1,0 +1,47 @@
+{
+    "#panel_in_window": 
+    {
+        "colours":
+        {
+            "normal_border": "#636e72"
+        }
+    },
+
+    "#entry_in_window":
+    {
+        "colours":
+        {
+            "dark_bg": "#2d3436"
+        }
+    },
+
+    "#changing_color_button":
+    {
+        "misc":
+        {
+            "border_width": "5"
+        }
+    },
+
+    "#radio_button":
+    {
+        "colours":
+        {
+            "normal_bg": "rgba(0,0,0,0)",
+            "hovered_bg": "rgb(49,59,66)",
+            "active_bg": "rgb(49,59,66)",
+            "selected_bg": "rgb(49,59,66)",
+            "selected_border": "rgb(92,96,98)",
+            "active_border": "rgb(92,96,98)"
+        },
+
+        "misc":
+        {
+            "border_width": "0",
+            "shadow_width": "0",
+            "text_horiz_alignment": "left"
+        }
+    }
+
+    
+} 

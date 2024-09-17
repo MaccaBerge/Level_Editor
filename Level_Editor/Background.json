@@ -1,0 +1,12 @@
+{
+    "tileset_object": {
+        "name": "Background",
+        "type": "background",
+        "image_path": "C:/Users/marcu/OneDrive/Dokumenter/Programming/Python/Games/Platformers/Carrot/Graphics/Tileset/carrot_tileset_large_dark.png",
+        "tile_width": 32,
+        "tile_height": 32,
+        "margin": 0,
+        "spacing": 0,
+        "colorkey": null
+    }
+}

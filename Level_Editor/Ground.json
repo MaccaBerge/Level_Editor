@@ -1,0 +1,12 @@
+{
+    "tileset_object": {
+        "name": "Ground",
+        "type": "grass",
+        "image_path": "C:/Users/marcu/OneDrive/Dokumenter/Programming/Python/Games/Platformers/Gravity_Bender/scripts/Level_Editor/carrot_tileset_large.png",
+        "tile_width": 32,
+        "tile_height": 32,
+        "margin": 0,
+        "spacing": 0,
+        "colorkey": null
+    }
+}
